@@ -4,6 +4,6 @@
         {{msg}}
     </view>
     <view class="logo">
-        {{row}}
+        {{image}}
     </view>
 </page>
