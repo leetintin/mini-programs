@@ -1,11 +1,15 @@
 /**index.wxss**/
-.hello {
-    color: Black;
-    font-size: 31px;
+.text {
+    color: black;
+    font-size: 33px;
 }
-.image {
+.userinfo-avatar {
   width: 128rpx;
   height: 128rpx;
   margin: 20rpx;
   border-radius: 50%;
+}
+.texta {
+    color: silver;
+    font-size: 12px;
 }

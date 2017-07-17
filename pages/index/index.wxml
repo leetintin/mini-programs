@@ -1,9 +1,13 @@
 
+  <image class="userinfo-avatar" src= "image/logo.png" mode= "aspectFit" ></image>
 
-  <image class="widget__arrow" src= "image/logo.png" mode= "aspectFit" >
-  </image>
   <page>
-    <view class="甘露珠宝首饰有限公司">
+    <view class="text">
         {{msg}}
     </view>
+    <view class="texta">
+        {{txt1}}
+    </view>
 </page>
+
+    
