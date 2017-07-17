@@ -1,0 +1,6 @@
+
+<page>
+    <view class="hello">
+        {{msg}}
+    </view>
+</page>
