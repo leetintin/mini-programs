@@ -1,15 +1,15 @@
 /**index.wxss**/
 .text {
     color: black;
-    font-size: 33px;
+    font-size: 56rpx;
 }
 .userinfo-avatar {
-  width: 128rpx;
-  height: 128rpx;
-  margin: 20rpx;
-  border-radius: 50%;
+  width: 228rpx;
+  height: 228rpx;
+  margin: 1rpx;
+  border-radius: 1%;
 }
 .texta {
     color: silver;
-    font-size: 12px;
+    font-size: 22rpx;
 }
