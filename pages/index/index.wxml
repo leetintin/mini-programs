@@ -3,4 +3,8 @@
     <view class="hello">
         {{msg}}
     </view>
+    <view class="src">
+        {{row}}
+    </view>
+
 </page>
