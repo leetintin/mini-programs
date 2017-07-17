@@ -1,10 +1,9 @@
 
-<page>
-    <view class="hello">
+
+  <image class="widget__arrow" src= "image/logo.png" mode= "aspectFit" >
+  </image>
+  <page>
+    <view class="甘露珠宝首饰有限公司">
         {{msg}}
     </view>
-    <view class="src">
-        {{row}}
-    </view>
-
 </page>
