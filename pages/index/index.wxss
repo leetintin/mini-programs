@@ -2,6 +2,3 @@
 .hello {
     color: Black;
 }
-.logo{
-    color: Black;
-}
