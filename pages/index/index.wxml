@@ -6,8 +6,7 @@
         {{msg}}
     </view>
     <view class="texta">
-        {{txt1}}
+       <view>  　  </view>
+       {{view}}
     </view>
 </page>
-
-    
