@@ -1,7 +1,7 @@
 /**index.wxss**/
 .text {
     color: black;
-    font-size: 56rpx;
+    font-size: 45rpx;
     
 }
 .userinfo-avatar {
@@ -15,11 +15,15 @@
     font-size: 22rpx;
 }
 .zhanshi {
-width: 562rpx;
+width: 577rpx;
 height: 317rpx;
 margin-left: auto; 
 margin-right: auto; 
 margin-top: 32rpx;
 display:block;
 
+}
+.dizhi {
+  color: silver;
+    font-size: 22rpx;
 }

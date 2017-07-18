@@ -1,7 +1,8 @@
+ <!--index.wxml-->
+<page>
+   
+   <!--<image class="userinfo-avatar" src= "image/logo.png" mode= "aspectFit" ></image>-->
 
-  <image class="userinfo-avatar" src= "image/logo.png" mode= "aspectFit" ></image>
-
-  <page>
     <view class="text">
         {{msg}}
     </view>
@@ -9,6 +10,18 @@
        <view>  　  </view>
        {{view}}
     </view>
-</page>
 
-  <image class="zhanshi" src="image/1.jpg" mode="aspectFill"></image>
+ <image class="zhanshi" src="image/1.jpg" mode="aspectFill"></image>
+
+<view class="dizhi">
+<view>  　  </view>
+        {{dizhi}}
+<view>  　  </view>
+        {{tiem}}
+<view>  　  </view>
+        {{call}}
+        
+    </view>
+
+
+</page>
