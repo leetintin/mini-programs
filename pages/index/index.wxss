@@ -2,6 +2,7 @@
 .text {
     color: black;
     font-size: 56rpx;
+    
 }
 .userinfo-avatar {
   width: 228rpx;
