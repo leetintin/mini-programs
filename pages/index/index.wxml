@@ -10,3 +10,5 @@
        {{view}}
     </view>
 </page>
+
+  <image class="zhanshi" src="image/1.jpg" mode="aspectFill"></image>

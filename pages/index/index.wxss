@@ -14,3 +14,10 @@
     color: silver;
     font-size: 22rpx;
 }
+.zhanshi {
+  width: 600rpx;
+  height: 400rpx;
+  margin: 1rpx;
+  border-radius: 1%;
+
+}
