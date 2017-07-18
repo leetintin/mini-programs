@@ -5,8 +5,8 @@
     
 }
 .userinfo-avatar {
-  width: 228rpx;
-  height: 228rpx;
+  width: 128rpx;
+  height: 50rpx;
   margin: 1rpx;
   border-radius: 1%;
 }
@@ -15,9 +15,11 @@
     font-size: 22rpx;
 }
 .zhanshi {
-  width: 600rpx;
-  height: 400rpx;
-  margin: 1rpx;
-  border-radius: 1%;
+width: 562rpx;
+height: 317rpx;
+margin-left: auto; 
+margin-right: auto; 
+margin-top: 32rpx;
+display:block;
 
 }
