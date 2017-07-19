@@ -1,29 +1,32 @@
 /**index.wxss**/
-.text {
-    color: black;
-    font-size: 45rpx;
-    
-}
-.userinfo-avatar {
-  width: 128rpx;
-  height: 50rpx;
-  margin: 1rpx;
-  border-radius: 1%;
-}
-.texta {
-    color: silver;
-    font-size: 22rpx;
-}
-.zhanshi {
-width: 577rpx;
-height: 317rpx;
-margin-left: auto; 
-margin-right: auto; 
-margin-top: 32rpx;
-display:block;
 
+.text {
+   color: black;
+   font-size: 45rpx;
 }
-.dizhi {
-  color: silver;
-    font-size: 22rpx;
+
+.userinfo-avatar {
+   width: 128rpx;
+   height: 50rpx;
+   margin: 1rpx;
+   border-radius: 1%;
+}
+
+.texta {
+   color: silver;
+   font-size: 22rpx;
+}
+
+.zhanshi {
+   width: 577rpx;
+   height: 317rpx;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 32rpx;
+   display: block;
+}
+
+.address {
+   color: silver;
+   font-size: 22rpx;
 }
