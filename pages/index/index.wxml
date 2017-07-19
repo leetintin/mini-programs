@@ -1,27 +1,23 @@
- <!--index.wxml-->
+ <!--index.wxml--> <!--<image class="userinfo-avatar" src= "image/logo.png" mode= "aspectFit" ></image>-->
 <page>
-   
-   <!--<image class="userinfo-avatar" src= "image/logo.png" mode= "aspectFit" ></image>-->
-
     <view class="text">
-        {{msg}}
+         {{msg}}
     </view>
     <view class="texta">
        <view>  　  </view>
-       {{view}}
+         {{view}}
     </view>
-
- <image class="zhanshi" src="image/1.jpg" mode="aspectFill"></image>
-
-<view class="dizhi">
-<view>  　  </view>
+   <image class="zhanshi" src="image/1.jpg" mode="aspectFill"></image>
+   <view class="dizhi">
+   <view>  　  </view>
         {{dizhi}}
-<view>  　  </view>
+   <view>  　  </view>
         {{tiem}}
-<view>  　  </view>
+   <view>  　  </view>
         {{call}}
-        
     </view>
+
+   <map id="map" longitude="114.12859976" latitude="22.57017886" scale="20" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location style="width: 100%; height: 300px;"></map>
 
 
 </page>
