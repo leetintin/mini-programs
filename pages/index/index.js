@@ -5,7 +5,6 @@ Page({
       address: "　广东省深圳市罗湖区翠竹路",
       tiem: "　09:00-18:00",
       call: "　0755-25624888",
-
       markers: [{
          id: 0,
          latitude: 22.5701788621,
@@ -14,6 +13,25 @@ Page({
          height: 50
       }],
 
+      // text:"这是一个页面"
+   },
+   onLoad: function (options) {
+      // 页面初始化 options为页面跳转所带来的参数
+   },
+   onReady: function () {
+      // 页面渲染完成
+   },
+   onShow: function () {
+      // 页面显示
+   },
+   onHide: function () {
+      // 页面隐藏
+   },
+   onUnload: function () {
+      // 页面关闭
    }
+
+
+
 
 })

@@ -1,0 +1,8 @@
+<!--glplan.wxml-->
+<view class="text">
+   {{msg}}
+</view>
+<view> 　 </view>
+<view> 　 </view>
+
+<image class="zhanshi" src="image/meitu.png" mode="aspectFill"></image>

@@ -8,7 +8,10 @@
       <view> 　 </view>
       {{view}}
    </view>
-   <image class="zhanshi" src="image/1.jpg" mode="aspectFill"></image>
+
+   <navigator url="../../pages/GlPlan/glplan">
+      <image class="zhanshi" src="image/1.jpg" mode="aspectFill"></image>
+   </navigator>
    <view class="address">
       <view> 　 </view>
       {{address}}
