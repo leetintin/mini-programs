@@ -2,7 +2,8 @@
    "pages": [
       "pages/index/index",
       "pages/logs/logs",
-      "pages/GlPlan/glplan"
+      "pages/GlPlan/glplan",
+      "pages/Map/map" 
    ],
    "window": {
       "backgroundTextStyle": "light",

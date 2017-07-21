@@ -3,8 +3,9 @@
 .text {
    color: black;
    font-size: 45rpx;
+   display: flex;
+   justify-content: center;
 }
-
 .userinfo-avatar {
    width: 128rpx;
    height: 50rpx;
@@ -27,6 +28,10 @@
 }
 
 .address {
+   color: silver;
+   font-size: 22rpx;
+}
+.call {
    color: silver;
    font-size: 22rpx;
 }
