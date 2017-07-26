@@ -4,7 +4,8 @@
       "pages/logs/logs",
       "pages/GlPlan/glplan",
       "pages/Map/map",
-      "pages/Staffentrance/Staffentrance"
+      "pages/Staffentrance/Staffentrance",
+      "pages/aboutus/aboutus"
    ],
    "window": {
       "backgroundTextStyle": "light",
@@ -23,14 +24,20 @@
          {
             "pagePath": "pages/GlPlan/glplan",
             "text": "店内图片",
-            "iconPath": "image/ico-setting.png",
-            "selectedIconPath": "image/ico-setting.png"
+            "iconPath": "image/ico-image.png",
+            "selectedIconPath": "image/ico-image.png"
          },
          {
             "pagePath": "pages/Staffentrance/Staffentrance",
             "text": "员工入口",
-            "iconPath": "image/ico-setting.png",
-            "selectedIconPath": "image/ico-setting.png"
+            "iconPath": "image/ico-Staffentrance.png",
+            "selectedIconPath": "image/ico-Staffentrance.png"
+         },
+         {
+            "pagePath": "pages/aboutus/aboutus",
+            "text": "关于我们",
+            "iconPath": "image/ico-aboutus.png",
+            "selectedIconPath": "image/ico-aboutus.png"
          }
       ]
    }
