@@ -8,7 +8,22 @@
    "window": {
       "backgroundTextStyle": "light",
       "navigationBarBackgroundColor": "#fff",
-      "navigationBarTitleText": "WeChat",
+      "navigationBarTitleText": "甘露珠宝首饰有限公司",
       "navigationBarTextStyle": "black"
+   },
+   "tabBar": {
+  "list": [{
+    "pagePath": "pages/index/index",
+    "text": "首页",
+    "iconPath": "image/ico-home.png",
+    "selectedIconPath": "image/ico-home.png"
+  },
+    {
+       "pagePath": "pages/Map/map",
+      "text": "MAP",
+      "iconPath": "image/ico-setting.png",
+      "selectedIconPath": "image/ico-setting.png"
+
+    }]
    }
 }
